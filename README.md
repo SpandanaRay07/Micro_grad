@@ -62,6 +62,3 @@ Micrograd by Andrej Karpathy
 👩‍💻 Author
 Spandana Ray
 
-yaml
-Copy
-Edit
